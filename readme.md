@@ -7,4 +7,4 @@ Periodo: Septiembre - Diciembre 2026
 |no.|Nombre| descripcion| Potenciador| Estatus|
 |---|---|---|---|---|
 |1.|Metodologia de evaluacion de la materia|trascribir en libreta y comprender la metodologia y fechas de asignatura |5|✅completado|
-|2.|conexiones remotas para base de datos|Conexion Remota en MySQL|??|🟡EN DESARROLLO|
+|2.|conexiones remotas para base de datos|Conexion Remota en MySQL| ?? |🟡EN DESARROLLO|
