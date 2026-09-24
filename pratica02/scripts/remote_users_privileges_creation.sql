@@ -40,7 +40,7 @@ Asignar privilegios CRUD sobre la base db_test_7b.
 
 GRANT SELECT, INSERT, UPDATE, DELETE
 ON db_test.*
-TO 'erick.uriel'@'%';
+TO 'uriel.leonardo'@'%';
 
 
 /* ============================================================
